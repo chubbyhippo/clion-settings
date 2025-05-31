@@ -2,9 +2,9 @@
 
 # config paths
 for config_path in \
-"$HOME"/.config/JetBrains/Clion* \
-"$HOME"/Library/Application\ Support/JetBrains/Clion* \
-"$HOME"/AppData/Roaming/JetBrains/Clion* \
+"$HOME"/.config/JetBrains/CLion* \
+"$HOME"/Library/Application\ Support/JetBrains/CLion* \
+"$HOME"/AppData/Roaming/JetBrains/CLion* \
 
 do
   echo "$config_path"
