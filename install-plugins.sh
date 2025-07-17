@@ -12,4 +12,5 @@ com.github.camork.fileExpander \
 com.joshestein.ideavim-quickscope \
 com.julienphalip.ideavim.functiontextobj \
 com.julienphalip.ideavim.peekaboo \
+dev.turingcomplete.intellijdevelopertoolsplugins \
 eu.theblob42.idea.whichkey
